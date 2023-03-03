@@ -1,0 +1,13 @@
+pandas
+akshare
+fastapi
+uvicorn[standard]
+gunicorn
+scikit-learn
+scipy
+stargazer
+matplotlib
+seaborn
+statsmodels
+numpy
+pydantic
